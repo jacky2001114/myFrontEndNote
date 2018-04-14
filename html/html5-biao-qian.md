@@ -52,7 +52,6 @@
 <footer>     描述了文檔的底部區域
 ```
 
-<<<<<<< HEAD:html/html5_tag.md
 ## 使用這些tag的好處:
 1. 有利於SEO，有助於爬蟲抓取更多的有效信息，爬蟲是依賴於標籤來確定上下文和各個關鍵字的權重。
 <br>
@@ -69,24 +68,3 @@
 2. [ HTML5的新tag 語意化標籤](https://blog.chibc.net/learning/uibeginner-daily/859)
 <br>
 3. [理解HTML語義化](http://www.cnblogs.com/freeyiyi1993/p/3615179.html)
-=======
-參考用法: [http://www.runoob.com/html/html5-semantic-elements.html](http://www.runoob.com/html/html5-semantic-elements.html)
-
-使用這些tag的好處:  
-1. 有利於SEO，有助於爬蟲抓取更多的有效信息，爬蟲是依賴於標籤來確定上下文和各個關鍵字的權重 
-
-2. 方便其他設備解析（如屏幕閱讀器、盲人閱讀器、移動設備）以意義的方式來渲染網頁 
-
-3. 於團隊開發和維護，語義化更具可讀性，而且遵循W3C標準的團隊都遵循這個標準，可以減少差異化
-
- 4. 語義化的HTML在沒有CSS的情況下也能呈現較好的內容結構與代碼結構
-
-參考:
-
- 1. [HTML語義化](https://segmentfault.com/a/1190000005626375)
-
- 2. [HTML5的新tag 語意化標籤](https://blog.chibc.net/learning/uibeginner-daily/859) 
-
-3. [理解HTML語義化](http://www.cnblogs.com/freeyiyi1993/p/3615179.html)
-
->>>>>>> 0d67f2f261fefcb58f1617574eeb5778512620de:html/html5-biao-qian.md
